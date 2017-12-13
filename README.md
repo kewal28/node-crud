@@ -1,10 +1,17 @@
-# node-curl
+# node-crud
 This is a very basic example of CRUD in Node.js n mySQL.
 
 ## Installation
-*for newbies : Clone or download zip to your machine then hit this :
-
+Clone or download zip to your machine.
+```
+	git clone https://github.com/knojiyak/node-crud
+	cd node-crud
 	npm install
+	npm start
+	Now open url in your browser: http://localhost:4300/
+		
+```
+
 
 ## Configuration (database)
 config/connection.js
@@ -67,5 +74,3 @@ Password: 123456
 ![Alt text](ScreenShot/add.png?raw=true "Add")
 ![Alt text](ScreenShot/edit.png?raw=true "Edit")
 
-## NOTES
-This repo still use Express 3, you might want to upgrade yourself or you can Go here (https://github.com/knojiyak/node-curl) for newest Express 
