@@ -17,6 +17,13 @@ config/connection.js
 
 You're gonna need to create a DB named 'sampledb' and import sampledb.sql
 
+## Login Details
+
+```
+Username: admin
+Password: 123456
+```
+
 ## Directory Structure
 
 ```
