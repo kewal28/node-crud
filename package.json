@@ -1,0 +1,19 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.5",
+    "express": "3.5.1",
+    "express-myconnection": "1.0.4",
+    "jade": "*",
+    "mysql": "2.2.0",
+    "express-session": "^1.7.6",
+    "MD5": "~1.2.1",
+    "multer": "^1.2.0",
+    "asyncawait":"*"
+  }
+}
